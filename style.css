@@ -18,3 +18,18 @@ a {
     border-color: rgb(35, 36, 36);
     background-color: antiquewhite;
 }
+
+img {
+    height: auto;
+    width: 80%;
+    margin: 25px;
+    border-style: outset;
+    border-color: rgb(3, 85, 58);
+    border-width: 15px;
+}
+
+p,
+h1,
+h2 {
+    padding-left: 25px;
+}
